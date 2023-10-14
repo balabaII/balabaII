@@ -77,4 +77,4 @@
 
 Credits: [Kulantaev Erbol](https://github.com/balabaII)
 
-Last Edited on: 16/09/2023
+Last Edited on: 13/10/2023
