@@ -2,8 +2,6 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile!
 
-💻 Frontend Entusiast looking for internship or co-op
-
 <hr>
 
 ## 🚀💻 Technologies & Tools
@@ -55,7 +53,7 @@
 
 <hr>
 
-## Contact me 🌻
+<!-- ## Contact me 🌻
 
 <br>
 <div align="center">
@@ -65,7 +63,7 @@
   <a href="mailto:erbolmongol@gmail.com" target="top" rel="noopener noreferrer">
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
   </a>
-</div>
+</div> -->
 
 <br>
 
